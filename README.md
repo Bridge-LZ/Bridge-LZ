@@ -1,4 +1,4 @@
-# $BRIDGE
+# 🌉 $BRIDGE
 
 The first shitcoin omnichain with multiple functionality thanks to [@LayerZero_Labs](https://twitter.com/LayerZero_Labs). 
 1:1 with gas chain, 5% fee max like on this jpeg. [$BRIDGE]() is the best way to move fund from one chain to another. [$BRIDGE]() is simply a P2P way to move fund from one chain to another.
