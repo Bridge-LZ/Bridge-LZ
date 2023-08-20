@@ -42,6 +42,12 @@ This project use OpenZeppelin contract + LayerZero OFT contract.
 - Optimism Contract Address :  [https://optimistic.etherscan.io/address/0x233dc79F924c35AcB4524BaC4A883c8CE11A75B2](https://optimistic.etherscan.io/address/0x233dc79F924c35AcB4524BaC4A883c8CE11A75B2)
 - Twitter link on how to mint [$BRIDGE]() : [https://twitter.com/Bridge_LZ/status/1688941241654747136](https://twitter.com/Bridge_LZ/status/1688941241654747136)
 
+## 💳 Wallet address 
+
+- Contract Deployer : [https://debank.com/profile/0x156d3f28c2d8b13552e32544657ee05ed0acdfe4](https://debank.com/profile/0x156d3f28c2d8b13552e32544657ee05ed0acdfe4)
+- Alt wallet : [https://debank.com/profile/0x3db61d37ee38e2aa668fcbb3ba7b99262040ded3](https://debank.com/profile/0x3db61d37ee38e2aa668fcbb3ba7b99262040ded3)
+
+
 ## 📣 Important Announcement 
 
 - 2023-08-14 : [$BRIDGE]() is looking for someone to create a front-end. Fee will share with the dev. Contact us on Telegram or Twitter if you are interested [https://twitter.com/Bridge_LZ/status/1690889507187417089](https://twitter.com/Bridge_LZ/status/1690889507187417089)
