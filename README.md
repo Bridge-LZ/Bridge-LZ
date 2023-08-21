@@ -28,8 +28,20 @@ This project use OpenZeppelin contract + LayerZero OFT contract.
 
 4. Once you receive your [$BRIDGE]() on the other chain call `burnToken` number [F2 (here example for Base)](https://lineascan.build/address/0x233dc79F924c35AcB4524BaC4A883c8CE11A75B2#writeContract#F2)  with the number of [$BRIDGE]() to burn `uint256 _amount`. Once transaction minted you will receive 1:1 gas chain with the token burn.
 
+
+
+## 🤑 Where to buy ?
+
+- [$BRIDGE]() is listed on BaseSwap : [https://baseswap.fi/swap?outputCurrency=0x233dc79f924c35acb4524bac4a883c8ce11a75b2](https://baseswap.fi/swap?outputCurrency=0x233dc79f924c35acb4524bac4a883c8ce11a75b2)
+- Dexscreener link : [https://dexscreener.com/base/0x37b55cb47a76d08a4d71a5c7fee8164e84bc8c21](https://dexscreener.com/base/0x37b55cb47a76d08a4d71a5c7fee8164e84bc8c21)
+
+
+
 ## 🗳️ Last proposal
+
 - Change the fee, now it's 2% : [https://twitter.com/Bridge_LZ/status/1693265690772345185](https://twitter.com/Bridge_LZ/status/1693265690772345185)
+
+
 
 ## ℹ️ Useful link
 
@@ -41,6 +53,8 @@ This project use OpenZeppelin contract + LayerZero OFT contract.
 - Linea Contract Address :  [https://lineascan.build/address/0x233dc79F924c35AcB4524BaC4A883c8CE11A75B2](https://lineascan.build/address/0x233dc79F924c35AcB4524BaC4A883c8CE11A75B2)
 - Optimism Contract Address :  [https://optimistic.etherscan.io/address/0x233dc79F924c35AcB4524BaC4A883c8CE11A75B2](https://optimistic.etherscan.io/address/0x233dc79F924c35AcB4524BaC4A883c8CE11A75B2)
 - Twitter link on how to mint [$BRIDGE]() : [https://twitter.com/Bridge_LZ/status/1688941241654747136](https://twitter.com/Bridge_LZ/status/1688941241654747136)
+
+
 
 ## 💳 Wallet address 
 
