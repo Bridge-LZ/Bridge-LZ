@@ -47,7 +47,7 @@ This project use OpenZeppelin contract + LayerZero OFT contract.
 
 - Twitter : [https://www.twitter.com/bridge_lz](https://www.twitter.com/bridge_lz)
 - Telegram Group : [https://t.me/+RlDq3qM8AnIzZjhk](https://t.me/+RlDq3qM8AnIzZjhk)
-- DefiLlama : [https://www.defillama.com/protocol/bridge_lz](https://www.defillama.com/protocol/bridge_lz)
+- DefiLlama : [https://defillama.com/protocol/bridge-lz](https://defillama.com/protocol/bridge-lz)
 - Ethereum Contract Address : [https://etherscan.io/address/0x233dc79F924c35AcB4524BaC4A883c8CE11A75B2](https://etherscan.io/address/0x233dc79F924c35AcB4524BaC4A883c8CE11A75B2)
 - Base Contract Address :  [https://basescan.org/address/0x233dc79F924c35AcB4524BaC4A883c8CE11A75B2](https://basescan.org/address/0x233dc79F924c35AcB4524BaC4A883c8CE11A75B2)
 - Linea Contract Address :  [https://lineascan.build/address/0x233dc79F924c35AcB4524BaC4A883c8CE11A75B2](https://lineascan.build/address/0x233dc79F924c35AcB4524BaC4A883c8CE11A75B2)
