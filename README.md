@@ -32,8 +32,11 @@ This project use OpenZeppelin contract + LayerZero OFT contract.
 
 ## 🤑 Where to buy ?
 
-- [$BRIDGE]() is listed on BaseSwap : [https://baseswap.fi/swap?outputCurrency=0x233dc79f924c35acb4524bac4a883c8ce11a75b2](https://baseswap.fi/swap?outputCurrency=0x233dc79f924c35acb4524bac4a883c8ce11a75b2)
-- Dexscreener link : [https://dexscreener.com/base/0x37b55cb47a76d08a4d71a5c7fee8164e84bc8c21](https://dexscreener.com/base/0x37b55cb47a76d08a4d71a5c7fee8164e84bc8c21)
+- [$BRIDGE]() / [$ETH]() on BaseSwap : [https://baseswap.fi/swap?outputCurrency=0x233dc79f924c35acb4524bac4a883c8ce11a75b2](https://baseswap.fi/swap?outputCurrency=0x233dc79f924c35acb4524bac4a883c8ce11a75b2) : [https://dexscreener.com/base/0x37b55cb47a76d08a4d71a5c7fee8164e84bc8c21](https://dexscreener.com/base/0x37b55cb47a76d08a4d71a5c7fee8164e84bc8c21)
+
+- [$BRIDGE]() / [$Bridge FriendTech]() on Base Swap : [https://baseswap.fi/](https://baseswap.fi/)
+
+- [$BRIDGE]() / [$ETH]() on Velodrome : [https://velodrome.finance/](https://velodrome.finance/)
 
 
 
